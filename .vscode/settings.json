@@ -1,0 +1,9 @@
+{
+  "[css]": {
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on"
+    },
+    "editor.suggest.localityBonus": true
+  }
+}
